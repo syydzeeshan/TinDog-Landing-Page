@@ -179,7 +179,7 @@ em {
 }
 
 /* Media Queries */
-@media (max-width: 200px) {
+@media (max-width: 300px) {
   #title {
     text-align: center;
   }
@@ -191,7 +191,7 @@ em {
   }
 }
 
-@media (min-width: 200px) and (max-width: 990px) {
+@media (min-width: 300px) and (max-width: 990px) {
   #title {
     text-align: center;
   }
